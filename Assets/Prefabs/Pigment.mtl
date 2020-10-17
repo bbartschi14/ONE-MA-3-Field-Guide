@@ -1,0 +1,12 @@
+# Blender MTL File: 'Pigment.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 33.062499
+Ka 1.000000 1.000000 1.000000
+Kd 0.007375 0.011065 0.800000
+Ks 0.266667 0.266667 0.266667
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5658513850866835618
+  m_GuidHigh: 801839523762698890
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4899757942868508326
+      m_GuidHigh: 3611171706485186465
+    m_SerializedTextureGuid:
+      m_GuidLow: 1293758105159639047
+      m_GuidHigh: 8747408541525046392
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: aqueductMarker
+    m_Texture: {fileID: 2800000, guid: 5b52a0075a2411f47874d106b9096579, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5434043303638561873
+      m_GuidHigh: 4493380864563916201
+    m_SerializedTextureGuid:
+      m_GuidLow: 6126185014174676870
+      m_GuidHigh: 2497006986542184874
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: frescoMarker
+    m_Texture: {fileID: 2800000, guid: fe33f78694cf5504aaf983e29f26a722, type: 3}

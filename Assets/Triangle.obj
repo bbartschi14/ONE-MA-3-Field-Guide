@@ -1,0 +1,14 @@
+# Blender v2.81 (sub 16) OBJ File: 'Laser Scanner.blend'
+# www.blender.org
+mtllib Triangle.mtl
+o Plane
+v -16.604788 0.000000 11.191309
+v -14.163530 0.000000 11.191309
+v -15.384159 0.000000 -11.191309
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 0.000000 1.000000
+vn 0.0000 1.0000 0.0000
+usemtl None
+s off
+f 1/1/1 2/2/1 3/3/1

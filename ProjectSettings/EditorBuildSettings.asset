@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 08c53bb47a94bee47bbfa38b614695e9
+  - enabled: 1
+    path: Assets/Scenes/AqueductScene.unity
+    guid: 337387e873e5dae4baed6ae58efdc1a8
+  - enabled: 1
+    path: Assets/Scenes/FrescoScene.unity
+    guid: 9ca0118d3a1d6964e8d43917280e14d0
+  - enabled: 1
+    path: Assets/Scenes/3DScanScene.unity
+    guid: e51b63d9c1927bd43be420bfd0471773
+  - enabled: 1
+    path: Assets/Scenes/LaserScanScene.unity
+    guid: 6da444ac26f29ea46bbf74efafa5e9bb
+  - enabled: 1
+    path: Assets/Scenes/MosaicScene.unity
+    guid: 50c11c43b336111409967c34dbea801f
+  - enabled: 1
+    path: Assets/Scenes/MortarScene.unity
+    guid: 6b89781dcbc3ea845b75c561efc4fd1e
+  - enabled: 1
+    path: Assets/Scenes/PigmentScene.unity
+    guid: 4bcb273f740ef994cae70376e4f9f627
+  - enabled: 1
+    path: Assets/Scenes/StuccoScene.unity
+    guid: 878cd0307dcc2984fb05d1b6b622d41e
+  - enabled: 1
+    path: Assets/Scenes/XRFScene.unity
+    guid: 634e167aed7c2f74ea352689ad6316fd
+  - enabled: 1
+    path: Assets/Scenes/StratigraphyScene.unity
+    guid: 52801148ceabe5f4b9833198e1fc65b2
+  - enabled: 1
+    path: Assets/Scenes/SpectroscopyScene.unity
+    guid: b1f661c2b1376c248bd2037b74d7e18c
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 27f8bef911455d5428fec9ce6b24772a,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: f86582db83bfb5244a2d6b0416f06997,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 241767c11c6de154c8ff6e4f4692a865,
+      type: 2}
